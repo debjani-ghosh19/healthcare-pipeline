@@ -1,0 +1,11 @@
+payer_id,payer_name,plan_name,plan_type,line_of_business
+PAY001,Aetna,Aetna PPO,PPO,Commercial
+PAY002,BlueCross,BlueCross Gold HMO,HMO,Commercial
+PAY003,UnitedHealth,UnitedHealth Choice,PPO,Commercial
+PAY004,Medicare,Medicare Part B,FFS,Medicare
+PAY005,Medicare,Medicare Advantage Plus,HMO,Medicare Advantage
+PAY006,Medicaid,Medicaid State Plan,FFS,Medicaid
+PAY007,Cigna,Cigna Open Access,PPO,Commercial
+PAY008,Humana,Humana Gold Plus,HMO,Medicare Advantage
+PAY009,Self-Pay,Self-Pay,N/A,Self-Pay
+PAY010,Exchange,Exchange Silver Plan,PPO,Exchange

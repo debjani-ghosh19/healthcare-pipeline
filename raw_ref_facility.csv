@@ -1,0 +1,21 @@
+facility_id,facility_name,facility_type,city,state,zip3,bed_count
+FAC001,North Daisystad Community Clinic,Acute Care Hospital,West Kaitlyn,WA,52663,0
+FAC002,Adamburgh Urgent Care Center,Acute Care Hospital,Smithland,WI,91768,0
+FAC003,Warrenport Medical Center,Ambulatory Clinic,Jacksonstad,HI,92781,0
+FAC004,East Tom Urgent Care Center,Urgent Care,South Ashleyborough,HI,26838,0
+FAC005,Lake Ianborough General Hospital,Urgent Care,Tonyachester,NV,82661,0
+FAC006,Port Danaland Urgent Care Center,Ambulatory Clinic,Christopherville,KY,08924,0
+FAC007,Anthonybury Urgent Care Center,Urgent Care,Washingtonville,AL,08503,0
+FAC008,Karentown Community Clinic,Urgent Care,North Jasontown,MS,79535,250
+FAC009,Sarahfort General Hospital,Urgent Care,Cassandramouth,MN,89873,0
+FAC010,Yvonnebury Community Clinic,Ambulatory Clinic,Elizabethfurt,RI,08003,0
+FAC011,Morganville General Hospital,Acute Care Hospital,South Monicafurt,VA,18702,0
+FAC012,New Davidhaven Urgent Care Center,Urgent Care,Stephaniebury,MN,59734,0
+FAC013,Robertsonborough Urgent Care Center,Skilled Nursing,Lake Susanmouth,AK,83571,0
+FAC014,Morganmouth Community Clinic,Acute Care Hospital,Hallfort,MO,97390,0
+FAC015,West Ronniefort Community Clinic,Urgent Care,Lake Paulborough,VT,19265,0
+FAC016,East Tylerland Medical Center,Ambulatory Clinic,Marisaside,VI,61685,0
+FAC017,South Stephanie Urgent Care Center,Ambulatory Clinic,Batesbury,IA,28241,0
+FAC018,Port Sheryl Urgent Care Center,Skilled Nursing,North Ryantown,GA,43296,0
+FAC019,Mirandabury Community Clinic,Telehealth,Elizabethville,TN,18294,0
+FAC020,Davismouth Urgent Care Center,Skilled Nursing,New Katie,PA,08977,400
