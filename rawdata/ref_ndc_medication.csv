@@ -1,0 +1,13 @@
+ndc_code,drug_name,therapeutic_class,route,controlled_substance_schedule
+00071015523,Metformin HCl 500mg,Antidiabetic,Oral,
+00378180101,Lisinopril 10mg,ACE Inhibitor,Oral,
+00093715601,Atorvastatin 20mg,Statin,Oral,
+00006074528,Albuterol HFA Inhaler,Bronchodilator,Inhalation,
+00069300030,Amoxicillin 500mg,Antibiotic,Oral,
+00074434011,Insulin Glargine 100u/mL,Antidiabetic,Subcutaneous,
+00378211377,Sertraline 50mg,SSRI,Oral,
+00591351001,Hydrocodone/Acetaminophen 5-325mg,Opioid Analgesic,Oral,CII
+00069314068,Levothyroxine 50mcg,Thyroid Hormone,Oral,
+00186507031,Omeprazole 20mg,PPI,Oral,
+00003089421,Apixaban 5mg,Anticoagulant,Oral,
+00054327925,Alprazolam 0.5mg,Benzodiazepine,Oral,CIV

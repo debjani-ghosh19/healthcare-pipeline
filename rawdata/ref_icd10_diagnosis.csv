@@ -1,0 +1,21 @@
+icd10_code,icd10_description,diagnosis_category,chronic_flag,code_set_version
+E11.9,Type 2 diabetes mellitus without complications,Endocrine,True,2026.1
+I10,Essential (primary) hypertension,Circulatory,True,2026.1
+J45.909,"Unspecified asthma, uncomplicated",Respiratory,True,2026.1
+N18.3,"Chronic kidney disease, stage 3",Genitourinary,True,2026.1
+M54.5,Low back pain,Musculoskeletal,False,2026.1
+F32.9,"Major depressive disorder, single episode, unspecified",Mental Health,True,2026.1
+I50.9,"Heart failure, unspecified",Circulatory,True,2026.1
+J18.9,"Pneumonia, unspecified organism",Respiratory,False,2026.1
+K21.9,Gastro-esophageal reflux disease without esophagitis,Digestive,True,2026.1
+E78.5,"Hyperlipidemia, unspecified",Endocrine,True,2026.1
+R51,Headache,Symptoms,False,2026.1
+S72.001A,"Fracture of unspecified femur neck, initial encounter",Injury,False,2026.1
+Z00.00,Encounter for general adult medical exam without abnormal findings,Factors,False,2026.1
+O80,Encounter for full-term uncomplicated delivery,Pregnancy,False,2026.1
+A41.9,"Sepsis, unspecified organism",Infectious,False,2026.1
+C50.911,"Malignant neoplasm of right female breast, unspecified",Neoplasm,True,2026.1
+G43.909,"Migraine, unspecified, not intractable",Nervous,True,2026.1
+J44.9,"Chronic obstructive pulmonary disease, unspecified",Respiratory,True,2026.1
+N39.0,"Urinary tract infection, site not specified",Genitourinary,False,2026.1
+M17.9,"Osteoarthritis of knee, unspecified",Musculoskeletal,True,2026.1
